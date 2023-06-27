@@ -2,5 +2,5 @@
 Methodology used for the elaboration of the scientific article entitled:
 "The Time of Emergence (ToE) of the Andean Mediterranean sclerophyllous forest of Quillaja saponaria (Mol.) and Lithraea caustica (mol.) Hox. & Arn"
 
-- The historical climate data used can be obtained from the web [page] ("https://www.cr2.cl/downloads/cr2met/")
-- The luebert and pliscoff vegetation belts are available from follow [link] ("https://www.ide.cl/index.php/flora-y-fauna/item/1524-pisos-vegetacionales-luebert-pliscoff-2017")
+- The historical climate data used can be obtained from the web page ("https://www.cr2.cl/downloads/cr2met/")
+- The luebert and pliscoff vegetation belts are available from follow link ("https://www.ide.cl/index.php/flora-y-fauna/item/1524-pisos-vegetacionales-luebert-pliscoff-2017")
