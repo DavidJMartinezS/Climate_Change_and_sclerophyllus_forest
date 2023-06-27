@@ -1,1 +1,0 @@
-# Climate_Change_and_sclerophyllus_forest
